@@ -1,4 +1,4 @@
-More info on: https://www.npmjs.com/package/swiper-cum-carousel
+Visit for more: https://www.npmjs.com/package/swiper-cum-carousel
 
 
 <div>
