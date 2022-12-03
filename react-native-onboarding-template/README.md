@@ -1,0 +1,1 @@
+More info on: https://www.npmjs.com/package/react-native-onboarding-template
