@@ -1,4 +1,4 @@
-<p style='font-style:italic;'>wait for page to load :)</p> <br>
+*wait for page to load :)* <br>
 Visit for more: https://www.npmjs.com/package/swiper-cum-carousel
 
 
