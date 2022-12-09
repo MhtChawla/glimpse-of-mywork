@@ -1,4 +1,4 @@
-[wait for page to load :)]
+wait for page to load :) <br>
 Visit for more: https://www.npmjs.com/package/swiper-cum-carousel
 
 
