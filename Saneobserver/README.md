@@ -1,3 +1,6 @@
+### Amber: Utility app to manage your talent and skills.
+
+<br>
 App link (android): https://play.google.com/store/apps/details?id=com.sane_observer
 <br>
 
