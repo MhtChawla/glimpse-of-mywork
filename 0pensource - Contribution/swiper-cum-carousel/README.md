@@ -7,7 +7,7 @@ _wait for page to load :)_ <br>
     <img src="https://github.com/MhtChawla/glimpse-of-mywork/blob/main/0pensource%20-%20Contribution/swiper-cum-carousel/CarouselCards.gif" width="500" />
   </div>
    <div>
-    <img src="hhttps://github.com/MhtChawla/glimpse-of-mywork/blob/1ebba311682ce6a5ff056131c412b559ed3ad8fc/0pensource%20-%20Contribution/swiper-cum-carousel/FadingAnimation.gif" width="250" />
+    <img src="https://github.com/MhtChawla/glimpse-of-mywork/blob/1ebba311682ce6a5ff056131c412b559ed3ad8fc/0pensource%20-%20Contribution/swiper-cum-carousel/FadingAnimation.gif" width="250" />
     <img src="https://github.com/MhtChawla/glimpse-of-mywork/blob/1ebba311682ce6a5ff056131c412b559ed3ad8fc/0pensource%20-%20Contribution/swiper-cum-carousel/PaginationSwipe.gif" width="250" />
     <img src="https://github.com/MhtChawla/glimpse-of-mywork/blob/main/0pensource%20-%20Contribution/swiper-cum-carousel/ButtonSwipe.gif" width="250" />
     <img src="https://github.com/MhtChawla/glimpse-of-mywork/blob/main/0pensource%20-%20Contribution/swiper-cum-carousel/Autoplay.gif" width="250" />
