@@ -3,9 +3,9 @@ App link (android): https://play.google.com/store/apps/details?id=com.sane_obser
 
 <div>
    <div>
-    <img src="https://github.com/MhtChawla/glimpse-of-mywork/blob/main/Amber/1.PNG" width="250" />
-    <img src="https://github.com/MhtChawla/glimpse-of-mywork/blob/main/Amber/2.PNG" width="250" />
-    <img src="https://github.com/MhtChawla/glimpse-of-mywork/blob/main/Amber/3.PNG" width="250" />
-    <img src="https://github.com/MhtChawla/glimpse-of-mywork/blob/main/Amber/4.PNG" width="250" />
+    <img src="https://github.com/MhtChawla/glimpse-of-mywork/blob/main/Saneobserver/1.png" width="250" />
+    <img src="https://github.com/MhtChawla/glimpse-of-mywork/blob/main/Saneobserver/2.png" width="250" />
+    <img src="https://github.com/MhtChawla/glimpse-of-mywork/blob/main/Saneobserver/3.png" width="250" />
+    <img src="https://github.com/MhtChawla/glimpse-of-mywork/blob/main/Saneobserver/4.png" width="250" />
   </div>
 </div>
