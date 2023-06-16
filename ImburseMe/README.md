@@ -1,6 +1,6 @@
 ### ImburseMe: Reimbursement bill generator for employees working overtime
 
-(just for fun, not meant to be used as hack over work)
+(just for fun, not meant to be used as hack at work)
 
 <br>
 
